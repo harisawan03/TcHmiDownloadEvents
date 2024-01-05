@@ -1,0 +1,11 @@
+{
+  "locale": "en",
+  "scope": "Control",
+  "source": "TcHmi.Controls.Beckhoff.TcHmiNumericInput",
+  "localizedText": {
+    "ValueNaN": "Value is not a number.",
+    "ValueEmpty": "No value entered.",
+    "ValueOutOfRangeMin": "Value is lower than the min value ({0}).",
+    "ValueOutOfRangeMax": "Value is higher than the max value ({0})."
+  }
+}

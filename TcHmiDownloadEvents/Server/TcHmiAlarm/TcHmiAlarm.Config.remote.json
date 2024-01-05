@@ -1,0 +1,44 @@
+{
+    "alarmSymbols": {
+        "ErrorAlarm": {
+            "alarmSettings": {
+                "ErrorAlarm": {
+                    "alarmTextKey": "ENUM_3_ERROR",
+                    "condition": [
+                        {
+                            "comparator": "==",
+                            "path": "",
+                            "value": true
+                        }
+                    ],
+                    "enabled": true,
+                    "notificationType": 2,
+                    "severity": 3
+                }
+            },
+            "enabled": true,
+            "interval": "PT1S",
+            "onError": false
+        },
+        "InfoAlarm": {
+            "alarmSettings": {
+                "InfoAlarm": {
+                    "alarmTextKey": "ENUM_1_INFO",
+                    "condition": [
+                        {
+                            "comparator": "==",
+                            "path": "",
+                            "value": true
+                        }
+                    ],
+                    "enabled": true,
+                    "notificationType": 0,
+                    "severity": 1
+                }
+            },
+            "enabled": true,
+            "interval": "PT1S",
+            "onError": false
+        }
+    }
+}

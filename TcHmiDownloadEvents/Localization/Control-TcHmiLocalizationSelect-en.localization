@@ -1,0 +1,9 @@
+{
+  "locale": "en",
+  "scope": "Control",
+  "source": "TcHmi.Controls.Beckhoff.TcHmiLocalizationSelect",
+  "localizedText": {
+    "Combobox_Select": "Select",
+    "Combobox_Loading": "Loading..."
+  }
+}

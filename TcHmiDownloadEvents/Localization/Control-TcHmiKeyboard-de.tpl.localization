@@ -1,0 +1,8 @@
+{
+  "locale": "de",
+  "scope": "Control",
+  "source": "TcHmi.Controls.Beckhoff.TcHmiKeyboard",
+  "localizedText": {
+    "Engineering_Not_Configured": "LayoutFile wurde nicht konfiguriert.<br>Bitte fügen Sie dem Projekt ein Tastaturlayout hinzu und setzen Sie das Attribut LayoutFile."
+  }
+}

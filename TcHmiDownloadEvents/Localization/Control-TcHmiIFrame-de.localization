@@ -1,0 +1,8 @@
+{
+  "locale": "de",
+  "scope": "Control",
+  "source": "TcHmi.Controls.Beckhoff.TcHmiIFrame",
+  "localizedText": {
+    "Engineering_Not_Configured": "TcHmiIFrame wurde nicht konfiguriert.<br>Bitte setzen Sie das Attribut Src."
+  }
+}

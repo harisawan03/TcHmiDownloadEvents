@@ -1,0 +1,8 @@
+{
+  "locale": "de",
+  "scope": "Control",
+  "source": "TcHmi.Controls.Beckhoff.TcHmiThemeSelect",
+  "localizedText": {
+    "Combobox_Select": "Auswählen"
+  }
+}

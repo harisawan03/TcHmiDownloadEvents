@@ -1,0 +1,9 @@
+{
+  "locale": "en",
+  "scope": "Control",
+  "source": "TcHmi.Controls.Beckhoff.TcHmiDateTimeInput",
+  "localizedText": {
+    "ValueFormat": "Wrong value format. The value must conform to the ISO 8601 standard.",
+    "ValueEmpty": "No value entered."
+  }
+}

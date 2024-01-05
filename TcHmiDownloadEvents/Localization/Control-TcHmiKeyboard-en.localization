@@ -1,0 +1,8 @@
+{
+  "locale": "en",
+  "scope": "Control",
+  "source": "TcHmi.Controls.Beckhoff.TcHmiKeyboard",
+  "localizedText": {
+    "Engineering_Not_Configured": "No configured LayoutFile.<br>Please add a keyboard layout to the project and set the LayoutFile attribute."
+  }
+}

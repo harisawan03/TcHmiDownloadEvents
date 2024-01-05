@@ -1,0 +1,9 @@
+{
+  "locale": "en",
+  "scope": "Control",
+  "source": "TcHmi.Controls.Beckhoff.TcHmiRadialGauge",
+  "localizedText": {
+    "Tooltip_LessThanMin_Text": "The current value is less than the minimum: {0}",
+    "Tooltip_GreaterThanMax_Text": "The current value is greater than the maximum: {0}"
+  }
+}

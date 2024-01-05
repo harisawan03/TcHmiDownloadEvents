@@ -1,0 +1,12 @@
+{
+  "locale": "en",
+  "scope": "Control",
+  "source": "TcHmi.Controls.Beckhoff.TcHmiObjectBrowser",
+  "localizedText": {
+    "Define_Data_And_Schema": "Please define both the 'Data' and the 'DataSchema' attribute if you are not using the 'DataSymbol' attribute.",
+    "ColumnData_Name": "Name",
+    "ColumnData_Value": "Value",
+    "ColumnData_Datatype": "Datatype",
+    "ColumnData_PreparedValue": "Prepared Value"
+  }
+}

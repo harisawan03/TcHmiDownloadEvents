@@ -1,0 +1,8 @@
+{
+  "locale": "de",
+  "scope": "Control",
+  "source": "TcHmi.Controls.BaseTemplate.TcHmiNavigation",
+  "localizedText": {
+    "ButtonBack_Text": "Zurück"
+  }
+}
